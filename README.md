@@ -2,15 +2,15 @@
 
 # 😈 Evil Batch 😈
 
-⚠️ **DESCARGO DE RESPONSABILIDAD:**
+⚠️ **DESCARGO DE RESPONSABILIDAD** ⚠️
 
-No soy responsable de ningún tipo de daño causado por el uso de las muestras de malware en este repositorio. Se filtran solo con fines educativos.
+No soy responsable de ningún tipo de daño causado por el uso indebido de las muestras de malware en este repositorio. Se filtran solo con fines educativos.
 
 ////////////////////////////////////////////
 
-⚠️ **DISCLAIMER:**
+⚠️ **DISCLAIMER** ⚠️
 
-I am not responsible for any type of damage caused by the use of the malware sample(s) in this repository. They are leaked only for educational purpouses.
+I am not responsible for any kind of damage caused by misuse of the malware samples in this repository.  They are filtered for educational purposes only.
 
 🦠 **Contenido:**
 
