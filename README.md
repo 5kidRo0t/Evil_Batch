@@ -2,22 +2,32 @@
 
 # 😈 Evil Batch 😈
 
+////////////////////////////////////////////
+
 ⚠️ **DESCARGO DE RESPONSABILIDAD** ⚠️
 
 No soy responsable de ningún tipo de daño causado por el uso indebido de las muestras de malware en este repositorio. Se filtran solo con fines educativos.
-
-////////////////////////////////////////////
 
 ⚠️ **DISCLAIMER** ⚠️
 
 I am not responsible for any kind of damage caused by misuse of the malware samples in this repository.  They are filtered for educational purposes only.
 
-🦠 **Contenido:**
+////////////////////////////////////////////
+
+⛔ **Atención/Attention** ⛔
+
+Ningún contenido publicado aquí debe usarse con intenciones maliciosas si se diera el caso, los datos extraídos del malware deben usarse únicamente con fines educativos e investigación.
+
+No content posted here should be used for malicious intent if any, data extracted from malware should be used for educational and research purposes only.
+
+////////////////////////////////////////////
+
+🦠 **Contenido:** 🐛
 
 Principalmente son muestras de malware escritas en batch por mi. Además también habrá muestras que sean una mezcla de código propio con código escrito por otros usuarios y como mencioné anteriormente únicamente con fines educativos e investigación.
 
-/////////////////////////////////////////////
-
-🦠 **Content:**
+🦠 **Content:** 🐛
 
 They are mostly batch malware samples written by me. Also there will also be samples that are a mixture of my own code with code wrote by other users and as I mentioned before, only for educational and research purposes.
+
+/////////////////////////////////////////////
