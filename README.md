@@ -20,6 +20,8 @@ Ningún contenido publicado aquí debe usarse con intenciones maliciosas, el mal
 
 Any content posted here should not be used with malicious intent, malware should be used responsibly, that means only using it for educational and research purposes.
 
+---
+
 ////////////////////////////////////////////
 
 🦠 **Contenido:** 🐛
