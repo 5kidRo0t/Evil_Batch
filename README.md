@@ -16,9 +16,9 @@ I am not responsible for any kind of damage caused by misuse of the malware samp
 
 ⛔ **Atención/Attention** ⛔
 
-Ningún contenido publicado aquí debe usarse con intenciones maliciosas si se diera el caso, los datos extraídos del malware deben usarse únicamente con fines educativos e investigación.
+Ningún contenido publicado aquí debe usarse con intenciones maliciosas, el malware debe usarse con responsabilidad, eso quiere decir hacer uso de él con fines educativos e investigación.
 
-No content posted here should be used for malicious intent if any, data extracted from malware should be used for educational and research purposes only.
+Any content posted here should not be used with malicious intent, malware should be used responsibly, that means only using it for educational and research purposes.
 
 ////////////////////////////////////////////
 
