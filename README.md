@@ -14,10 +14,10 @@ I am not responsible for any kind of damage caused by misuse of the malware samp
 
 🦠 **Contenido:**
 
-Principalmente son muestras de malware escritas en batch por mi. Además también habrá muestras que sean una mezcla de código propio con código creado por otros usuarios y como mencioné anteriormente únicamente con fines educativos e investigación.
+Principalmente son muestras de malware escritas en batch por mi. Además también habrá muestras que sean una mezcla de código propio con código escrito por otros usuarios y como mencioné anteriormente únicamente con fines educativos e investigación.
 
 /////////////////////////////////////////////
 
 🦠 **Content:**
 
-They are mostly batch malware samples written by me.  In addition, there will also be samples that are a mixture of our own code with code created by other users and, as I mentioned before, only for educational and research purposes.
+They are mostly batch malware samples written by me. Also there will also be samples that are a mixture of my own code with code wrote by other users and as I mentioned before, only for educational and research purposes.
