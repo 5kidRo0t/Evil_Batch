@@ -31,3 +31,5 @@ Principalmente son muestras de malware escritas en batch por mi. Además tambié
 They are mostly batch malware samples written by me. Also there will also be samples that are a mixture of my own code with code wrote by other users and as I mentioned before, only for educational and research purposes.
 
 ---
+
+**PASS: infected**
