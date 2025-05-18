@@ -32,4 +32,10 @@ They are malware samples written by me. Also there will also be samples that are
 
 ---
 
-**PASS: infected**
+<p align="center">
+  <img src="https://media.giphy.com/media/a3SNJoR0a4ugcKi1Y9/giphy.gif?cid=ecf05e47qykr7nrszbjbd07by3wb7tamus3hy1dks027i4d2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700" />
+</p>
+
+<p align="center">
+  PASS: infected
+</p>
