@@ -1,4 +1,6 @@
-![IMG_1745063765942](https://github.com/user-attachments/assets/3ce2c49f-a952-43d0-ae0c-050965e98ae1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3ce2c49f-a952-43d0-ae0c-050965e98ae1" width="700" />
+</p>
 
 # 😈 **Evil Malware** 😈
 
